@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=vultureofficial&style=flat-square&color=blue" align="center" alt=""/>
 </div>
 
-<h1 align="center"> Hi, Welcome to Vulture Official </h1> 
+<h1 align="center"> Hi, Welcome to Birdiey </h1> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
